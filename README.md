@@ -2,6 +2,8 @@
 
 ## [Telegram 频道](https://t.me/+zMfQF-k20ZE0NTdl) | [Twitter](https://twitter.com/ExpLangcn)
 
+### 有人问我为啥叫Aopo，起名的时候脑子里回响“我要欧泡～我要欧泡～” 嘿嘿
+
 ### 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
 
 ### 当前功能
