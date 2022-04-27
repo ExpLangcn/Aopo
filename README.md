@@ -1,6 +1,6 @@
 # Aopo
 
-
+## [Telegram 频道](https://t.me/+zMfQF-k20ZE0NTdl) | [Twitter](https://twitter.com/ExpLangcn)
 
 ### 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
 
