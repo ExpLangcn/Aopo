@@ -1,10 +1,10 @@
 # Aopo
 
-## [Telegram 频道](https://t.me/+zMfQF-k20ZE0NTdl) | [Twitter](https://twitter.com/ExpLangcn)
+###  内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
 
-### 有人问我为啥叫Aopo，起名的时候脑子里回响“我要欧泡～我要欧泡～” 嘿嘿
+----
 
-### 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
+![image-20220502164731997](https://tva1.sinaimg.cn/large/e6c9d24egy1h1u5nlze31j20ym0u0q8r.jpg)
 
 ### 当前功能
 
@@ -21,6 +21,30 @@
 - [x] 服务弱口令探测模块 支持 Oracle
 - [x] 服务弱口令探测模块 支持 FTP
 - [x] 服务弱口令探测模块 支持 SMB
+- [x] 服务弱口令探测模块 支持 Rredis 未授权
+- [x] 自定义Password字典 自动合并到程序内置
+
+----
+
+### 更新记录
+
+* **2022.5.02 Aopo V1.0.2**
+  * 新增 Rredis 未授权扫描
+  * 新增 自定义Password字典，自动合并去重
+* **2022.4.29 Aopo V1.0.1**
+  * 发布程序
+
+----
+
+### 优势
+
+- [x] 速度快
+- [x] 体积小
+- [x] 功能够用
+
+这些应该算吧...
+
+----
 
 ### 使用教程
 
@@ -36,36 +60,18 @@
 
 > ./Aopo -ipf target.txt
 
-### 使用截图
+**自定义密码字典** （从文件读取目标，自动去重复合并到程序内置字典中）
 
-![image-20220427185229364](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh61jojdj217m0u00ya.jpg)
+> ./Aopo -addpass password.txt -ip xxx...
 
-![image-20220427185332450](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh74w37dj21dq0u0wl1.jpg)
+----
 
-![image-20220427185341238](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh7b9lb6j215k0u0tfj.jpg)
+### Twitter
 
-![image-20220427185251992](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh6f0j89j210g0u0tdh.jpg)
+#### [@ExpLangcn](https://twitter.com/ExpLangcn)
 
-![image-20220427185255857](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh6hyfutj21d20poq8a.jpg)
+----
 
-![image-20220427185259556](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh6k3f0vj20ki0ti0vb.jpg)
+### 联系微信
 
-![image-20220427185303196](https://tva1.sinaimg.cn/large/e6c9d24egy1h1oh6mlxlyj20u017bwld.jpg)
-
-### 联系方式
-
-#### 微信
-
-![img](https://github.com/ExpLangcn/FuYao/raw/master/img/WechatIMG408.jpeg)
-
-# 知识星球介绍：
-
-【**一次付费 永久免费**，到期联系运营即可免费加入】
-
-星球面向群体：主要面向信息安全研究人员.
-
-更新周期：最晚每两天更新一次.
-
-内容方向：`原创安全工具`｜`安全开发`｜`WEB安全`｜`内网渗透`｜`Bypass`｜`代码审计`｜`CTF`｜`免杀`｜`思路技巧`｜`实战分享`｜`最新漏洞`｜`安全资讯`
-
-[![img](https://camo.githubusercontent.com/19d5b75f5f041159fc3031b157f55872532b7a4f24d79a23fbb254c2877dd6fd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f3977566b37505357496a4a517a4c79524e6844757877506f764c4b7a593878714f71415a6e696356357564395862696338386b657259643349797135307772326b4553756652595952396239565043674463313063644c512f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31)](https://camo.githubusercontent.com/19d5b75f5f041159fc3031b157f55872532b7a4f24d79a23fbb254c2877dd6fd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f3977566b37505357496a4a517a4c79524e6844757877506f764c4b7a593878714f71415a6e696356357564395862696338386b657259643349797135307772326b4553756652595952396239565043674463313063644c512f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31)
+![img](/Users/explang/Desktop/WechatIMG408.png)
