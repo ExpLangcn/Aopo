@@ -1,8 +1,8 @@
 # Aopo - 项目推翻重做了 不再进行开源。
 
-## 团队
-
-**寻云安全团队**
+- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
+- Telegram频道：**[安全技术资讯聚合](https://t.me/secgzh) 实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.**
+- Telegram频道：**[安全资源整合互推](https://t.me/secyq) 一个用于收录Telegram上 安全行业 黑客技术 并且还会自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
 
 ### 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
 
