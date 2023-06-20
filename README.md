@@ -2,8 +2,7 @@
 
 - [**个人博客**](https://blog.yunjianxx.com/) **- 专注分享信息安全新技术、新领域的技术和知识的学习笔记，不时发布原创实用安全工具、安全脚本.**
 - [**在线武器库**](https://link.yunjianxx.com/) **- 提供安全、渗透、社工等方面书签｜为广大网络安全爱好者提供网站导航,为小白提供黑客入门网站的安全站点收集.**
-- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、[**Discord社区**](https://discord.gg/mnD8pbU4Zw)**实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
-- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
+- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)
 
 ### 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
 
@@ -16,7 +15,7 @@
 
 ![image-20220502164731997](https://tva1.sinaimg.cn/large/e6c9d24egy1h1u5nlze31j20ym0u0q8r.jpg)
 
-### 解决问题 (遇到问题请在[Issues](https://github.com/ExpLangcn/Aopo/issues)按照[模版](https://github.com/ExpLangcn/Aopo/issues/1)提交问题！其他方式反馈问题不给予受理)
+### 解决问题 (遇到问题请在[议题](https://github.com/ExpLangcn/Aopo/issues)按照[模版](https://github.com/ExpLangcn/Aopo/issues/1)提交问题！其他方式反馈问题不给予受理)
 
 Linux 报错：`/lib/ld-musl-x86_64.so.1: bad ELF interpreter: 没有那个文件或目录`
 
